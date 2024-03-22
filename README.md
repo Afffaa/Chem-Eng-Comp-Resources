@@ -21,8 +21,8 @@ Keylist \
 
 ## Academic English
 
-:page_with_curl: How to read a paper \
-:book: English for writing research papers
+:page_with_curl: [How to read a paper](https://doi.org/10.1145/1273445.1273458) \
+:book: [English for writing research papers](https://doi.org/10.1007/978-3-319-26094-5)
 
 ## Mathematics
 
