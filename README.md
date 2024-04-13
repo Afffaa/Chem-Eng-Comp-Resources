@@ -49,6 +49,40 @@ Keylist \
 
 ## Chemistry
 
+#### General Chemistry
+
+📖 [Principles of Modern Chemistry, 8th Edition, Cengage Publication, by David W. Oxtoby, H.P. Gillis, Laurie J. Butler](https://www.cengage.uk/c/principles-of-modern-chemistry-8e-oxtoby-gillis-butler/9780357671009/)
+📖 [Chemistry - A Molecular Approach, 5th Edition, Pearson Publication, Nivaldo J. Tro](https://www.pearson.com/en-us/subject-catalog/p/chemistry-a-molecular-approach/P200000006810/9780136874201)
+
+#### Physical Chemistry (Undergraduate)
+
+#### Analytical Chemistry (Undergraduate)
+
+#### Organic Chemistry (Undergraduate)
+
+#### Inorganic Chemistry (Undergraduate)
+
+#### BioChemistry (Undergraduate)
+
+#### Physical Chemistry (Graduate)
+
+#### Organic Chemistry (Graduate)
+
+#### Inorganic Chemistry (Graduate)
+
+#### Computational Chemistry
+
+#### Chemoinformatics
+
+#### Instrumentation (General)
+
+#### Instrumentation (HPLC)
+
+#### Instrumentation (NMR)
+
+#### Instrumentation (Mass Spectrometry)
+
+
 ## Chemical Engineering
 
 ## Computer Engineering
