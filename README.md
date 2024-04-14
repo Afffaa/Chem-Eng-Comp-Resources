@@ -19,7 +19,7 @@ Keylist \
 
 ## General
 
-📖 [How to Take Smart Notes - one simple technique to boost writing, learning, and thinking, 2nd Edition](https://www.soenkeahrens.de/en/takesmartnotes)
+📖 [How to Take Smart Notes - one simple technique to boost writing, learning, and thinking, 2nd Edition] \(https://www.soenkeahrens.de/en/takesmartnotes)
 📖 [America's culture of professionalism - past, present, and future](https://doi.org/10.1057/9781137337153) \
 📖 [A Survival Guide for Research Scientists](https://doi.org/10.1007/978-3-030-05435-9)  
 
@@ -52,12 +52,12 @@ Keylist \
 
 #### General Chemistry
 
-📖 [Principles of Modern Chemistry, 8th Edition, Cengage Publication, by David W. Oxtoby, H.P. Gillis, Laurie J. Butler](https://www.cengage.uk/c/principles-of-modern-chemistry-8e-oxtoby-gillis-butler/9780357671009/)
+📖 [Principles of Modern Chemistry, 8th Edition, Cengage Publication, by David W. Oxtoby, H.P. Gillis, Laurie J. Butler](https://www.cengage.uk/c/principles-of-modern-chemistry-8e-oxtoby-gillis-butler/9780357671009/) \
 📖 [Chemistry - A Molecular Approach, 5th Edition, Pearson Publication, Nivaldo J. Tro](https://www.pearson.com/en-us/subject-catalog/p/chemistry-a-molecular-approach/P200000006810/9780136874201)
 
 #### Physical Chemistry (Undergraduate)
 
-📖 [Atkins' Physical Chemistry, 12th Edition, 2022, Oxford University Press, by Peter Atkins, Julio de Paula, and James Keeler](https://global.oup.com/ukhe/product/atkins-physical-chemistry-9780198847816?cc=gb&lang=en&)
+📖 [Atkins' Physical Chemistry, 12th Edition, 2022, Oxford University Press, by Peter Atkins, Julio de Paula, and James Keeler](https://global.oup.com/ukhe/product/atkins-physical-chemistry-9780198847816?cc=gb&lang=en&) \
 📖 [Physical Chemistry - A Molecular Approach, 1st Edition, 1997, University Science Books, by Donald A. McQuarrie, John, D. Simon](https://uscibooks.aip.org/books/physical-chemistry-a-molecular-approach/)
 
 #### Analytical Chemistry (Undergraduate)
