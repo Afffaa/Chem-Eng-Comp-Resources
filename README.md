@@ -56,6 +56,9 @@ Keylist \
 
 #### Physical Chemistry (Undergraduate)
 
+📖 [Atkins' Physical Chemistry, 12th Edition, 2022, Oxford University Press, by Peter Atkins, Julio de Paula, and James Keeler](https://global.oup.com/ukhe/product/atkins-physical-chemistry-9780198847816?cc=gb&lang=en&)
+📖 [Physical Chemistry - A Molecular Approach, 1st Edition, 1997, University Science Books, by Donald A. McQuarrie, John, D. Simon](https://uscibooks.aip.org/books/physical-chemistry-a-molecular-approach/)
+
 #### Analytical Chemistry (Undergraduate)
 
 #### Organic Chemistry (Undergraduate)
