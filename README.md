@@ -19,7 +19,7 @@ Keylist \
 
 ## General
 
-📖 [How to Take Smart Notes - one simple technique to boost writing, learning, and thinking, 2nd Edition] (https://www.soenkeahrens.de/en/takesmartnotes) \
+📖 [How to Take Smart Notes - one simple technique to boost writing, learning, and thinking, 2nd Edition](https://www.soenkeahrens.de/en/takesmartnotes) \
 📖 [America's culture of professionalism - past, present, and future](https://doi.org/10.1057/9781137337153) \
 📖 [A Survival Guide for Research Scientists](https://doi.org/10.1007/978-3-030-05435-9)  
 
