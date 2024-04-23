@@ -64,6 +64,11 @@ Keylist \
 
 #### Analytical Chemistry (Undergraduate)
 
+📖 [Quatitative Chemical Analysis, 10th Edition, 2020, MacMillan Learning, by Daniel C. Harris, Charles A. Lucy](https://www.macmillanlearning.com/college/us/product/Quantitative-Chemical-Analysis/p/1319164307) \
+📖 [Principles of Instrumental Analysis, 7th Edition, 2018, Cengage Learning, Douglas A. Skoog, G. James Holler, Stanley R. Crouch](https://www.cengage.uk/c/principles-of-instrumental-analysis-7e-skoog-holler-crouch/9781305577213/?searchIsbn=9781305577213) \
+📖 [Instrumental Analysis, Revised Edition, 2017, Robert M. Granger, Hank M. Yochum, Jill N. Granger, Karl D. Sienerth](https://global.oup.com/ushe/product/instrumental-analysis-9780190865337) \
+📖 [Fundamentals of Analytical Chemistry, 10th Edition, 2022, Douglas A. Skoog, Donald M. West, F. James Holler, Stanley R. Crouch](https://www.cengage.uk/c/fundamentals-of-analytical-chemistry-10e-skoog-west-holler-crouch/9780357450390/?searchIsbn=9780357450390)
+
 #### Organic Chemistry (Undergraduate)
 
 #### Inorganic Chemistry (Undergraduate)
