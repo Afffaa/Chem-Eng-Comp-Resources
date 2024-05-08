@@ -71,6 +71,11 @@ Keylist \
 
 #### Organic Chemistry (Undergraduate)
 
+📖 [Organic Chemistry, 2nd Edition, 2012, Oxford University Press, Jonathan Clayden, Nick Greeves, Stuart Warren](https://learninglink.oup.com/access/clayden2e) \
+📖 [Organic Chemistry, 8th Edition, 2017, Pearson, Paula Yurkanis Bruice](https://www.pearson.com/nl/en_NL/higher-education/subject-catalogue/chemistry/bruice-organic-chemistry-8e-ge.html) \
+📖 [Organic Chemistry, 4th Edition, 2020, WILEY, David Klein](https://www.wiley.com/en-us/Organic+Chemistry%2C+4th+Edition-p-9781119659594) \
+📖 [The Art of Writing Reasonable Organic Reaction Mechanisms, 3rd Edition, Springer, Robert B. Grossman](https://link.springer.com/book/10.1007/978-3-030-28733-7)
+
 #### Inorganic Chemistry (Undergraduate)
 
 #### BioChemistry (Undergraduate)
