@@ -78,6 +78,12 @@ Keylist \
 
 #### Inorganic Chemistry (Undergraduate)
 
+📖 [Inorganic Chemistry, 5th Edition, 2018, Pearson, Catherine E. Housecroft, Alan G. Sharpe](https://elibrary.pearson.de/book/99.150005/9781292134161) \
+📖 [Inorganic Chemistry, 5th Edition, 2021, Pearson, Garry L. Miessler, Paul J. Fischer, Donald A. Tarr](https://www.pearson.com/en-us/subject-catalog/p/inorganic-chemistry/P200000006800/9780137518425) \
+📖 [Advanced Inorganic Chemistry, 6th Edition, 1999, Wiley, F. Albert Cotton, Geoffrey Wilkinson, Carlos A. Murillo, Manfred Bochmann](https://www.wiley.com/en-us/Advanced+Inorganic+Chemistry%2C+6th+Edition-p-9780471199571) \
+📖 [Molecular Symmetry and Group Theory: A Programmed Introduction to Chemical Applications, 2nd Edition, 2000, Wiley, Alan Vincent](https://www.wiley.com/en-ie/Molecular+Symmetry+and+Group+Theory%3A+A+Programmed+Introduction+to+Chemical+Applications%2C+2nd+Edition-p-9780471489399) \
+📖 [Molecular Symmetry and Group Theory: Approaches in Spectroscopy and Chemical Reactions, 1st Edition, 2019, De Gruyter, R. C. Maurya, J. M. Mir](https://www.degruyter.com/document/doi/10.1515/9783110635034/html?lang=en)
+
 #### BioChemistry (Undergraduate)
 
 #### Physical Chemistry (Graduate)
