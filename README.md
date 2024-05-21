@@ -86,6 +86,9 @@ Keylist \
 
 #### BioChemistry (Undergraduate)
 
+📖 [Lehninger Principles of Biochemistry, 8th Edition, 2021, Macmillan Publishing, David L. Nelson, Michael M. Cox](https://www.macmillanlearning.com/college/us/product/Lehninger-Principles-of-Biochemistry/p/1319228003) \
+📖 [Biochemistry, 10th Edition, 2023, Macmillan Publishing, Jeremy Berg, Gregory Gatto Jr., Justin Hines, John L. Tymoczko, Lubert Stryer](https://store.macmillanlearning.com/ca/product/Biochemistry/p/1319333621)
+
 #### Physical Chemistry (Graduate)
 
 #### Organic Chemistry (Graduate)
