@@ -91,6 +91,15 @@ Keylist \
 
 #### Physical Chemistry (Graduate)
 
+📖 [Quantum Mechanics Volume I: Basic Concepts, Tools, and Application, 2nd Edition, 2019, Wiley-VCH, Claude Cohen-Tannoudji, Bernard Diu, and Frack Laloe](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+1%3A+Basic+Concepts%2C+Tools%2C+and+Applications%2C+2nd+Edition-p-9783527822713) \
+📖 [Quantum Mechanics Volume II: Angular Momentum, Spin, and Approximation Methods, 2nd Edition, 2019, Wiley-VCH, Claude Cohen-Tannoudji, Bernard Diu, and Frack Laloe](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+2%3A+Angular+Momentum%2C+Spin%2C+and+Approximation+Methods%2C+2nd+Edition-p-9783527345540) \
+📖 [Quantum Mechanics Volume III: Fermions, Bosons, Photons, Correlations, and Entanglement, 2nd Edition, 2019, Wiley-VCH, Claude Cohen-Tannoudji, Bernard Diu, and Frack Laloe](https://www.wiley.com/en-us/Quantum+Mechanics%2C+Volume+3%3A+Fermions%2C+Bosons%2C+Photons%2C+Correlations%2C+and+Entanglement-p-9783527345557) \
+📖 [Molecular Quantum Mechanics, 5th Edition, 2010, Oxford University Press, Peter Atkins, Ronald Friedman](https://global.oup.com/academic/product/molecular-quantum-mechanics-9780199541423?cc=us&lang=en&) \
+📖 [Molecular Electronic-Structure Theory, 2nd Edition, 2013, Wiley, Trygve Helgaker, Poul Jorgensen, Jeppe Olsen](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119019572) \
+📖 [Introduction to Modern Statistical Mechanics, 1st Edition, 1987, Oxford University Press, David Chandler](https://global.oup.com/academic/product/introduction-to-modern-statistical-mechanics-9780195042771?cc=us&lang=en&) \
+📖 [Molecular Driving Forces: Statistical Thermodynamics in Biology, Chemistry, Physics, and Nanoscience, 2nd Edition, 2011, Garland Science(Taylor & Francis), Ken A. Dill, Sarina Bromberg](https://www.taylorfrancis.com/books/mono/10.4324/9780203809075/molecular-driving-forces-ken-dill-sarina-bromberg) \
+📖 [Statistical Mechanics: Theory and Molecular Simulation, 1st Edition, 2010, Oxford University Press, Mark E. Tuckerman](https://global.oup.com/academic/product/statistical-mechanics-theory-and-molecular-simulation-9780198825562?cc=us&lang=en&)
+
 #### Organic Chemistry (Graduate)
 
 #### Inorganic Chemistry (Graduate)
