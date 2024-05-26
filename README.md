@@ -102,6 +102,17 @@ Keylist \
 
 #### Organic Chemistry (Graduate)
 
+📖 [Advanced Practical Organic Chemistry](https://www.routledge.com/Advanced-Practical-Organic-Chemistry/Leonard-Lygo-Procter/p/book/9781439860977), 3rd Edition, 2013, CRC Press, John Leonard, Barry Lygo, Garry Procter \
+📖 [March's Advanced Organic Chemistry: Reactions, Mechanisms, and Structure](https://www.wiley.com/en-us/March's+Advanced+Organic+Chemistry%3A+Reactions%2C+Mechanisms%2C+and+Structure%2C+8th+Edition-p-9781119371793), 8th Edition, 2020, Wiley, Michael B. Smith \
+📖 [Advanced Organic Chemistry - Part A: Structure and Mechanisms](https://link.springer.com/book/10.1007/978-0-387-44899-2), 5th Edition, 2007, Francis A. Carey, Richard J. Sundberg \
+📖 [Advanced Organic Chemistry - Part B: Reactions and Synthesis]([https://link.springer.com/book/10.1007/978-0-387-44899-2](https://link.springer.com/book/10.1007/978-0-387-71481-3)), 5th Edition, 2007, Francis A. Carey, Richard J. Sundberg \
+📖 [Greene's Protective Groups in Organic Synthesis](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118905074), 5th Edition, 2014, Wiley, Peter G.M. Wuts \
+📖 [Purification of Laboratory Chemicals](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118905074), 9th Edition, 2022, Butterworth-Heinemann, Wilfred L.F. Armarego \
+📖 [Strategic Applications of Named Reactions in Organic Synthesis - Background and Detailed Mechanisms](https://shop.elsevier.com/books/strategic-applications-of-named-reactions-in-organic-synthesis/kurti/978-0-12-429785-2), 1st Edition, 2005, Elsevier Academic Press, Laszlo Kurti, Barbara Czako \
+📖 [Modern Physical Organic Chemistry](https://uscibooks.aip.org/books/modern-physical-organic-chemistry/), 1st Edition, 2006, University Science Books, Eric V. Anslyn, Dennis A. Dougherty \
+📖 [Organic Synthesis: The Disconnection Approach](https://www.wiley.com/en-be/Organic+Synthesis%3A+The+Disconnection+Approach%2C+2nd+Edition-p-9780470712368), 2nd Edition, 2009, Wiley, Stuart Warren, Paul Wyatt \
+📖 [Workbook for Organic Synthesis: The Disconnection Approach](https://www.wiley.com/en-be/Workbook+for+Organic+Synthesis%3A+The+Disconnection+Approach%2C+2nd+Edition-p-9781119965558), 2nd Edition, 2011, Wiley, Stuart Warren, Paul Wyatt \
+
 #### Inorganic Chemistry (Graduate)
 
 #### Computational Chemistry
