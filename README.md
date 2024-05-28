@@ -111,17 +111,19 @@ Keylist \
 📖 [Strategic Applications of Named Reactions in Organic Synthesis - Background and Detailed Mechanisms](https://shop.elsevier.com/books/strategic-applications-of-named-reactions-in-organic-synthesis/kurti/978-0-12-429785-2), 1st Edition, 2005, Elsevier Academic Press, Laszlo Kurti, Barbara Czako \
 📖 [Modern Physical Organic Chemistry](https://uscibooks.aip.org/books/modern-physical-organic-chemistry/), 1st Edition, 2006, University Science Books, Eric V. Anslyn, Dennis A. Dougherty \
 📖 [Organic Synthesis: The Disconnection Approach](https://www.wiley.com/en-be/Organic+Synthesis%3A+The+Disconnection+Approach%2C+2nd+Edition-p-9780470712368), 2nd Edition, 2009, Wiley, Stuart Warren, Paul Wyatt \
-📖 [Workbook for Organic Synthesis: The Disconnection Approach](https://www.wiley.com/en-be/Workbook+for+Organic+Synthesis%3A+The+Disconnection+Approach%2C+2nd+Edition-p-9781119965558), 2nd Edition, 2011, Wiley, Stuart Warren, Paul Wyatt \
+📖 [Workbook for Organic Synthesis: The Disconnection Approach](https://www.wiley.com/en-be/Workbook+for+Organic+Synthesis%3A+The+Disconnection+Approach%2C+2nd+Edition-p-9781119965558), 2nd Edition, 2011, Wiley, Stuart Warren, Paul Wyatt 
 
 #### Inorganic Chemistry (Graduate)
 
 📖 [Chemical Structure and Bonding](https://uscibooks.aip.org/books/chemical-structure-and-bonding/), 2nd Edition, University Science Books, Roger L. DeKock, Harry B. Gray \
 📖 [Organotransition Metal Chemistry: From Bonding to Catalysis](https://uscibooks.aip.org/books/organotransition-metal-chemistry/), 1st Edition, University Science Books, John Hartwig \
-📖 [The Organometallic Chemistry of the Transition Metals](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118788301), 1st Edition, Wiley Publishing, Robert H. Crabtree \
+📖 [The Organometallic Chemistry of the Transition Metals](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118788301), 1st Edition, Wiley Publishing, Robert H. Crabtree 
 
 #### Computational Chemistry
 
-
+📖 [Introduction to Computaional Chemistry](https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990), 3rd Edition, Wiley, Frank Jensen \
+📖 [Molecular Modeling: Principles and Applications](https://www.amazon.com/Molecular-Modelling-Principles-Applications-2nd/dp/0582382106), 2nd Edition, Pearson, Andrew Leach \
+📖 [Essentials of Computational Chemistry: Theories and Models](https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821), 2nd Edition, Wiley, Christopher J. Cramer
 
 #### Chemoinformatics
 
