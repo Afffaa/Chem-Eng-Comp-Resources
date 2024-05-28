@@ -115,7 +115,13 @@ Keylist \
 
 #### Inorganic Chemistry (Graduate)
 
+📖 [Chemical Structure and Bonding](https://uscibooks.aip.org/books/chemical-structure-and-bonding/), 2nd Edition, University Science Books, Roger L. DeKock, Harry B. Gray \
+📖 [Organotransition Metal Chemistry: From Bonding to Catalysis](https://uscibooks.aip.org/books/organotransition-metal-chemistry/), 1st Edition, University Science Books, John Hartwig \
+📖 [The Organometallic Chemistry of the Transition Metals](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118788301), 1st Edition, Wiley Publishing, Robert H. Crabtree \
+
 #### Computational Chemistry
+
+
 
 #### Chemoinformatics
 
