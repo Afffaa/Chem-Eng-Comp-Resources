@@ -115,17 +115,24 @@ Keylist \
 
 #### Inorganic Chemistry (Graduate)
 
-📖 [Chemical Structure and Bonding](https://uscibooks.aip.org/books/chemical-structure-and-bonding/), 2nd Edition, University Science Books, Roger L. DeKock, Harry B. Gray \
-📖 [Organotransition Metal Chemistry: From Bonding to Catalysis](https://uscibooks.aip.org/books/organotransition-metal-chemistry/), 1st Edition, University Science Books, John Hartwig \
-📖 [The Organometallic Chemistry of the Transition Metals](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118788301), 1st Edition, Wiley Publishing, Robert H. Crabtree 
+📖 [Chemical Structure and Bonding](https://uscibooks.aip.org/books/chemical-structure-and-bonding/), 2nd Edition, 1989, University Science Books, Roger L. DeKock, Harry B. Gray \
+📖 [Organotransition Metal Chemistry: From Bonding to Catalysis](https://uscibooks.aip.org/books/organotransition-metal-chemistry/), 1st Edition, 2009, University Science Books, John Hartwig \
+📖 [The Organometallic Chemistry of the Transition Metals](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118788301), 1st Edition, 2014, Wiley Publishing, Robert H. Crabtree 
 
 #### Computational Chemistry
 
-📖 [Introduction to Computaional Chemistry](https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990), 3rd Edition, Wiley, Frank Jensen \
-📖 [Molecular Modeling: Principles and Applications](https://www.amazon.com/Molecular-Modelling-Principles-Applications-2nd/dp/0582382106), 2nd Edition, Pearson, Andrew Leach \
-📖 [Essentials of Computational Chemistry: Theories and Models](https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821), 2nd Edition, Wiley, Christopher J. Cramer
+📖 [Introduction to Computaional Chemistry](https://www.wiley.com/en-us/Introduction+to+Computational+Chemistry%2C+3rd+Edition-p-9781118825990), 3rd Edition, 2017, Wiley, Frank Jensen \
+📖 [Molecular Modeling: Principles and Applications](https://www.amazon.com/Molecular-Modelling-Principles-Applications-2nd/dp/0582382106), 2nd Edition, 2001, Pearson, Andrew Leach \
+📖 [Essentials of Computational Chemistry: Theories and Models](https://www.wiley.com/en-us/Essentials+of+Computational+Chemistry%3A+Theories+and+Models%2C+2nd+Edition-p-9780470091821), 2nd Edition, 2004, Wiley, Christopher J. Cramer
 
 #### Chemoinformatics
+
+📖 [An Introduction To Chemoinformatics](https://link.springer.com/book/10.1007/978-1-4020-6291-9), Revised Edition, 2007, Wiley, Andrew R. Leach, Valerie J. Gillet \
+📖 [Chemoinformatics: A Textbook](https://onlinelibrary.wiley.com/doi/book/10.1002/3527601643), 1st Edition, 2003, Wiley, Thomas Engel, Johann Gastelger \
+📖 [Chemoinformatics for Drug Discovery](https://www.wiley.com/en-us/Chemoinformatics+for+Drug+Discovery-p-9781118139103), 1st Edition, 2013, Wiley, Jurgen Bajorath \
+📖 [Data Science in Chemistry](https://www.degruyter.com/document/doi/10.1515/9783110629453/html?lang=en), 1st Edition, 2020, De Gruyter, Thorsten Gressling \
+📖 [Handbook of Chemoinformatics: From Data to Knowledge in 4 Volumes](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527618279), 1st Edition, 2003, Wiley, Johann Gastelger \
+📖 [Applied Chemoinformatics: Achievements and Future Opportunities](https://www.wiley.com/en-us/Applied+Chemoinformatics%3A+Achievements+and+Future+Opportunities-p-9783527806546), 1st Edition, 2018, Wiley, Thomas Engel, Johann Gastelger 
 
 #### Instrumentation (General)
 
